@@ -1,2 +1,7 @@
-print("Hello neutrino")
-print("hi again")
+def hello(name):
+    print("good morning", name)
+
+def main():
+    hello("shreyas")
+
+main()
